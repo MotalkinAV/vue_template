@@ -1,0 +1,19 @@
+{
+	"markup template": {
+		"prefix": "template ts",
+		"body": [
+			"<template>",
+			"",
+			"</template>",
+			"",
+			"<script lang='ts' setup>",
+			"",
+			"</script>",
+			"",
+			"<style scoped>",
+			"",
+			"</style>"
+		],
+		"description": "Шаблон разметки"
+	}
+}
